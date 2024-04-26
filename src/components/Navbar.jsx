@@ -25,9 +25,9 @@ export default function Navbar() {
                     <li className='login'><a href="/login">Login</a></li>
                 </ul>
             </div>
-{/*             <ul className='flex items-center justify-between navbar mobile-login'>
+            <ul className='flex items-center justify-between navbar mobile-login'>
                 <li className='login'><a href="/login">Login</a></li>
-            </ul> */}
+            </ul>
         </nav>
     </div>
     <div className="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
